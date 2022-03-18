@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/english_stand/static/css/main.8e510c2d.chunk.css",
-    "main.js": "/english_stand/static/js/main.0d2c470f.chunk.js",
-    "main.js.map": "/english_stand/static/js/main.0d2c470f.chunk.js.map",
+    "main.css": "/english_stand/static/css/main.36d02420.chunk.css",
+    "main.js": "/english_stand/static/js/main.cbfd2301.chunk.js",
+    "main.js.map": "/english_stand/static/js/main.cbfd2301.chunk.js.map",
     "runtime-main.js": "/english_stand/static/js/runtime-main.f4020492.js",
     "runtime-main.js.map": "/english_stand/static/js/runtime-main.f4020492.js.map",
-    "static/js/2.c9aeca56.chunk.js": "/english_stand/static/js/2.c9aeca56.chunk.js",
-    "static/js/2.c9aeca56.chunk.js.map": "/english_stand/static/js/2.c9aeca56.chunk.js.map",
+    "static/js/2.43a1aec8.chunk.js": "/english_stand/static/js/2.43a1aec8.chunk.js",
+    "static/js/2.43a1aec8.chunk.js.map": "/english_stand/static/js/2.43a1aec8.chunk.js.map",
     "static/js/3.fe780229.chunk.js": "/english_stand/static/js/3.fe780229.chunk.js",
     "static/js/3.fe780229.chunk.js.map": "/english_stand/static/js/3.fe780229.chunk.js.map",
     "index.html": "/english_stand/index.html",
-    "static/css/main.8e510c2d.chunk.css.map": "/english_stand/static/css/main.8e510c2d.chunk.css.map",
-    "static/js/2.c9aeca56.chunk.js.LICENSE.txt": "/english_stand/static/js/2.c9aeca56.chunk.js.LICENSE.txt",
+    "static/css/main.36d02420.chunk.css.map": "/english_stand/static/css/main.36d02420.chunk.css.map",
+    "static/js/2.43a1aec8.chunk.js.LICENSE.txt": "/english_stand/static/js/2.43a1aec8.chunk.js.LICENSE.txt",
+    "static/media/003.87a0477f.mp3": "/english_stand/static/media/003.87a0477f.mp3",
+    "static/media/004.43c2d114.mp3": "/english_stand/static/media/004.43c2d114.mp3",
+    "static/media/005.9872a5ea.mp3": "/english_stand/static/media/005.9872a5ea.mp3",
+    "static/media/006.25c8229b.mp3": "/english_stand/static/media/006.25c8229b.mp3",
     "static/media/Eng-2021_2_1_1_14.acd532f7.png": "/english_stand/static/media/Eng-2021_2_1_1_14.acd532f7.png",
     "static/media/Eng-2021_2_1_1_15.1ec08484.png": "/english_stand/static/media/Eng-2021_2_1_1_15.1ec08484.png",
     "static/media/Eng-2021_2_1_1_2.af3f6c54.png": "/english_stand/static/media/Eng-2021_2_1_1_2.af3f6c54.png",
@@ -43,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f4020492.js",
-    "static/js/2.c9aeca56.chunk.js",
-    "static/css/main.8e510c2d.chunk.css",
-    "static/js/main.0d2c470f.chunk.js"
+    "static/js/2.43a1aec8.chunk.js",
+    "static/css/main.36d02420.chunk.css",
+    "static/js/main.cbfd2301.chunk.js"
   ]
 }
