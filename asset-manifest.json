@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/english_stand/static/css/main.e6b87559.chunk.css",
-    "main.js": "/english_stand/static/js/main.0a3fec40.chunk.js",
-    "main.js.map": "/english_stand/static/js/main.0a3fec40.chunk.js.map",
+    "main.css": "/english_stand/static/css/main.a312c3ba.chunk.css",
+    "main.js": "/english_stand/static/js/main.e546d94b.chunk.js",
+    "main.js.map": "/english_stand/static/js/main.e546d94b.chunk.js.map",
     "runtime-main.js": "/english_stand/static/js/runtime-main.d021e093.js",
     "runtime-main.js.map": "/english_stand/static/js/runtime-main.d021e093.js.map",
-    "static/js/2.3c5327e3.chunk.js": "/english_stand/static/js/2.3c5327e3.chunk.js",
-    "static/js/2.3c5327e3.chunk.js.map": "/english_stand/static/js/2.3c5327e3.chunk.js.map",
+    "static/js/2.3f6dcce8.chunk.js": "/english_stand/static/js/2.3f6dcce8.chunk.js",
+    "static/js/2.3f6dcce8.chunk.js.map": "/english_stand/static/js/2.3f6dcce8.chunk.js.map",
     "static/js/3.040a99ca.chunk.js": "/english_stand/static/js/3.040a99ca.chunk.js",
     "static/js/3.040a99ca.chunk.js.map": "/english_stand/static/js/3.040a99ca.chunk.js.map",
     "index.html": "/english_stand/index.html",
-    "static/css/main.e6b87559.chunk.css.map": "/english_stand/static/css/main.e6b87559.chunk.css.map",
-    "static/js/2.3c5327e3.chunk.js.LICENSE.txt": "/english_stand/static/js/2.3c5327e3.chunk.js.LICENSE.txt",
+    "static/css/main.a312c3ba.chunk.css.map": "/english_stand/static/css/main.a312c3ba.chunk.css.map",
+    "static/js/2.3f6dcce8.chunk.js.LICENSE.txt": "/english_stand/static/js/2.3f6dcce8.chunk.js.LICENSE.txt",
     "static/media/001.1d2b010f.mp3": "/english_stand/static/media/001.1d2b010f.mp3",
     "static/media/003.87a0477f.mp3": "/english_stand/static/media/003.87a0477f.mp3",
     "static/media/004.43c2d114.mp3": "/english_stand/static/media/004.43c2d114.mp3",
@@ -31,6 +31,7 @@
     "static/media/check.8a9527ec.svg": "/english_stand/static/media/check.8a9527ec.svg",
     "static/media/cherry.dc725454.png": "/english_stand/static/media/cherry.dc725454.png",
     "static/media/cherryWord.433531bb.png": "/english_stand/static/media/cherryWord.433531bb.png",
+    "static/media/children_karaoke.b137215b.png": "/english_stand/static/media/children_karaoke.b137215b.png",
     "static/media/coco.7246e18f.svg": "/english_stand/static/media/coco.7246e18f.svg",
     "static/media/delete.32773e62.svg": "/english_stand/static/media/delete.32773e62.svg",
     "static/media/download.9a2beea8.svg": "/english_stand/static/media/download.9a2beea8.svg",
@@ -57,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d021e093.js",
-    "static/js/2.3c5327e3.chunk.js",
-    "static/css/main.e6b87559.chunk.css",
-    "static/js/main.0a3fec40.chunk.js"
+    "static/js/2.3f6dcce8.chunk.js",
+    "static/css/main.a312c3ba.chunk.css",
+    "static/js/main.e546d94b.chunk.js"
   ]
 }
